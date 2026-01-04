@@ -7,13 +7,19 @@ This task requires the development of a Student Management System, a high-level 
 ●	Programming Language: C (Standard C99 or C11).
 
 ●	Core Libraries:
+
 ○	<stdio.h>: For standard input/output operations and file handling (fopen, fwrite, fread).
+
 ○	<stdlib.h>: For memory management and process control (exit functions).
+
 ○	<string.h>: For manipulating string data (copying names, handling buffers).
 
 ●	Key Concepts:
+
 ○	Structures (struct): To define the data model for a student.
+
 ○	File I/O: Specifically Binary File Handling (.dat files) for efficient storage and retrieval of structural data.
+
 ○	Pointers: For referencing file streams and memory addresses.
 
 ## *Editor Platform & Environment*:-
