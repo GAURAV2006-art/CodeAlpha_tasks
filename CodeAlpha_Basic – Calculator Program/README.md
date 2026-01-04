@@ -21,13 +21,13 @@ This code is lightweight and can be developed in various environments depending 
 
 ●	Integrated Development Environments (IDEs): Beginners often use Code::Blocks or Dev-C++, as these come pre-configured with a compiler, removing the need for manual path setups.
 
-●	Online Compilers: For immediate testing without installation, cloud-based platforms like OnlineGDB, Replit, or Programiz are highly effective.3 They run the GCC compiler in the cloud and stream the input/output to the web browser.
+●	Online Compilers: For immediate testing without installation, cloud-based platforms like OnlineGDB, Replit, or Programiz are highly effective. They run the GCC compiler in the cloud and stream the input/output to the web browser.
 
 ## *Applicability and Real-World Use*
 
 While this specific program is a standard introductory exercise, the underlying concepts have broad applicability:
 
-1.	Menu-Driven Systems: The switch-case logic used here is the foundational pattern for menu-driven applications, such as ATM software or CLI (Command Line Interface) tools where a user selects an option from a list.4
+1.	Menu-Driven Systems: The switch-case logic used here is the foundational pattern for menu-driven applications, such as ATM software or CLI (Command Line Interface) tools where a user selects an option from a list.
 
 2.	Embedded Systems: In hardware programming (e.g., microwave controllers or washing machines), similar logic is used to map physical button presses to specific hardware actions.
 
