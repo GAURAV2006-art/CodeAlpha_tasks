@@ -11,7 +11,7 @@ To successfully build and run this program, specific software tools are required
 
 ●	Compiler: A C compiler is strictly necessary to translate the human-readable source code into machine code. The GCC (GNU Compiler Collection) is the industry standard for this. On Windows, this is often accessed via MinGW; on macOS and Linux, it is usually available via the terminal (Clang or GCC).
 
-●	Debugger (Optional): Tools like GDB are often used alongside the compiler to step through the switch logic and verify variable states during execution.2
+●	Debugger (Optional): Tools like GDB are often used alongside the compiler to step through the switch logic and verify variable states during execution.
 
 ## *Editor Platforms*:-
 
